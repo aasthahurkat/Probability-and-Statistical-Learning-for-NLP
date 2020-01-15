@@ -1,4 +1,7 @@
-The basic algorithm is as follows:
+This was a part of the assignment under my course Elements of Artificial Intelligence.
+
+
+Basic algorithm:
 
 if P(Spam|Word) > P(NotSpam|Word)): return Spam else: return NotSpam
 
