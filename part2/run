@@ -1,0 +1,2 @@
+python3 break_code_v1.py encrypted-text-3.txt corpus.txt output
+# nohup uptime &>> log.txt && ./run &>> log.txt && uptime &>> log.txt &
